@@ -1,4 +1,3 @@
-#
 # Hi, Im TheUnixDemon
 
 ### ABOUT ME:
