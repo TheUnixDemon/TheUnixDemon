@@ -20,4 +20,6 @@ I have a great interest in the system administration and the APP development. I 
 **SOCIALS:** <br>
 <a href="mailto:luca.henschel@bbs-me.org" rel="test"><img src="img/web.png" width="50" /></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheUnixDemon)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- https://brandslogos.com/ -->
