@@ -7,7 +7,7 @@ Hello, I'm TheUnixDaemon! For now I learing something about information technolo
 I have a great interest in the system administration and the web development. I like to solving different logcial problems in these areas. I will upload my projects here, like process automation scripts and APPs.
 </p>
 <p>
-For now I enhance my NextJS, TS, React and Docker skills.
+For now I enhance skills in NextJS, TS, React and Docker.
 </p>
 
 **TOOLS:** <br>
