@@ -20,7 +20,7 @@ For now I enhance my NextJS, TS, React and Docker skills.
 <img src="img/python-logo.png" alt="Python" width="50"/>
 <img src="img/shell.png" alt="ShellScript" width="50"/>
 <img src="img/c-logo.png" alt="C++" width="50"/>
-<img src="img/java.jpg" alt=Java width="50"/>
+<img src="img/java.png" alt=Java width="50"/>
 <img src="img/postgresql-inc-logo.png" alt="PostgreSQL/SQL" width="50"/>
 
 **SOCIALS:** <br>
