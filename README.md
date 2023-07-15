@@ -3,7 +3,8 @@
 ### ABOUT ME
 
 Hello, I'm TheUnixDaemon! While my education I learned basics of computer science at the school BBS|ME.<br>
-I have a great interest in the system administration and the web development. I like to solving different logcial problems in these areas. I will upload some of my projects here, like process automation scripts and APPs.
+I have a great interest in the system administration and web/software development. I like to solving different logcial problems in these areas.  
+I will upload some of my projects here, like process automation scripts and APPs.
 </p>
 <p> 
 For now I learn the PHP framework Laravel and the JS/TS framework NextJS.
