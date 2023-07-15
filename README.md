@@ -18,7 +18,7 @@ For now I learn the PHP framework Laravel and the JS/TS framework NextJS.
 <img src="img/python-logo.png" alt="Python" width="50"/>
 <img src="img/php.png" alt="PHP" width="50"/>
 <img src="img/shell.png" alt="Bash Shell" width="50">
-<img src="img/c-logo.png" alt="C++" width="50"/>
+<!-- <img src="img/c-logo.png" alt="C++" width="50"/> -->
 <img src="img/java.png" alt=Java width="50"/>
 <img src="img/sql.png" alt="MySQL/SQL" width="50"/>
 
