@@ -3,7 +3,7 @@
 ### ABOUT ME
 
 <p>
-Hello, I'm TheUnixDaemon! I did finish my education at the BBS|ME and because of that I will be more active here!<br>
+Hello, I'm TheUnixDaemon! I did finish my education at the BBS|ME and because of that I will be more active here!
 I will upload some of my projects here, like process automation scripts(probably in Python and ShellScript) and applications.
 <p>
 I have a great interest in the system administration and web/software development.
