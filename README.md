@@ -2,12 +2,15 @@
 
 ### ABOUT ME
 
-Hello, I'm TheUnixDaemon! While my education I learned basics of computer science at the school BBS|ME.<br>
-I have a great interest in the system administration and web/software development. I like to solving different logcial problems in these areas.  
-I will upload some of my projects here, like process automation scripts and APPs.
+<p>
+Hello, I'm TheUnixDaemon! I did finish my education at the BBS|ME and because of that I will be more active here!<br>
+I will upload some of my projects here, like process automation scripts(probably in Python and ShellScript) and applications.
+<p>
+I have a great interest in the system administration and web/software development.
+</p>
 </p>
 <p> 
-For now I learn the PHP framework Laravel and the JS/TS framework NextJS.
+For now I learn the PHP framework Laravel and the JS/TS framework NextJS.<br>
 </p>
 
 **TOOLS:** <br>
@@ -20,7 +23,7 @@ For now I learn the PHP framework Laravel and the JS/TS framework NextJS.
 <img src="img/shell.png" alt="Bash Shell" width="50"/>
 <img src="img/java.png" alt=Java width="50"/>
 <img src="img/sql.png" alt="MySQL/SQL" width="50"/>
-<!-- <img src="img/c-logo.png" alt="C++" width="50"/> -->
+<img src="img/c-logo.png" alt="C++" width="50"/>
 
 **SOCIALS:** <br>
 <a href="mailto:luca.henschel@bbs-me.org" rel="test"><img src="img/web.png" width="50" /></a>
