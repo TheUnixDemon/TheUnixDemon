@@ -1,32 +1,30 @@
-# Hi, I am TheUnixDemon
+# TheUnixDaemon
 
-### ABOUT ME
+Hello, I am Luca, also known as Unix or TheUnixDaemon!
+I finished my education as an assistant for computer scientists and currently I study computer science. So I will try new projects and get more experiance along my education here.
 
-<p>
-Hello, I'm TheUnixDaemon! I did finish my education at the BBS|ME and because of that I will be more active here!
-I will upload some of my projects here, like process automation scripts(probably in Python and ShellScript) and applications.
-<p>
-I have a great interest in the system administration and web/software development.
-</p>
-</p>
-<p> 
-For now I learn the PHP framework Laravel and the JS/TS framework NextJS.<br>
-</p>
+My hobbies are to build homelabs, breaking things and fixing these broken bugs until the server runs flawlessly and understand the hole base and what is the source of these bugs! Basicly everything related to linux and network administration and debugging these things.
 
-**TOOLS:** <br>
-<img src="img/vs_code.png" alt="VS Code" width="50"/>
-<img src="img/intelliJ.png" alt="IntelliJ" width="50"/>
+Also I like to develop automation and dumping/fetching applications like [WebsiteToEpub](https://github.com/TheUnixDemon/WebnovelToEpub). For that I like to use Bash scripting and Python. Also I like to develop applications that make things easier us.
 
-**LANGUAGES:** <br>
-<img src="img/python-logo.png" alt="Python" width="50"/>
-<img src="img/php.png" alt="PHP" width="50"/>
-<img src="img/shell.png" alt="Bash Shell" width="50"/>
-<img src="img/java.png" alt=Java width="50"/>
-<img src="img/sql.png" alt="MySQL/SQL" width="50"/>
-<img src="img/c-logo.png" alt="C++" width="50"/>
+## **WHAT I LIKE TO USE** <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" width=60>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width=60 />
+<img src="img/linux-original.svg" alt="Linux" width=60 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" alt="aarch64" width=60 />
+<img src="img/shell.png" alt="Bash Shell/Script" width=60 />
+<img src="img/sql.png" alt="SQL" width=60 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width=60 /> <br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width=60 />
+<img src="img/vs_code.png" alt="VS Code" width=60 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" width=60 />
+<img src="img/python-logo.png" alt="Python" width=60 />
+<img src="img/c-logo.png" alt="C++" width=60 />
+<img src="img/java.png" alt=Java width=60 />
+<img src="img/php.png" alt="PHP" width=60 />
 
-**SOCIALS:** <br>
-<a href="mailto:luca.henschel@bbs-me.org" rel="test"><img src="img/web.png" width="50" /></a>
+## **SOCIALS** <br>
+<a href="mailto:theunixdaemon@gmail.com"><img src="img/Gmail.png" alt="Email" width="60" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheUnixDemon&show_icons=true&theme=dark)
 
