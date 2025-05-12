@@ -28,7 +28,7 @@ Also I like to develop automation and dumping/fetching applications like [Websit
 ## **SOCIALS** <br>
 <a href="mailto:theunixdaemon@gmail.com"><img src="img/Gmail.png" alt="Email" width="60" /></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theunixdemon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TheUnixDemon&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheUnixDemon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
