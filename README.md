@@ -1,4 +1,4 @@
-# TheUnixDaemon
+# TheUnixDemon (Luca)
 
 Hello, I am Luca, also known as Unix or TheUnixDemon.
 I finished my education as an assistant for computer scientists and currently I study computer science. So I will try new projects and get more experiance along my education here.
