@@ -1,6 +1,6 @@
 # TheUnixDaemon
 
-Hello, I am Luca, also known as Unix or TheUnixDaemon.
+Hello, I am Luca, also known as Unix or TheUnixDemon.
 I finished my education as an assistant for computer scientists and currently I study computer science. So I will try new projects and get more experiance along my education here.
 
 My hobbies are to build homelabs, breaking things, understand it's cause and building stuff like automation scripts or similar projects such as my web scraper for webnovels [WebsiteToEpub](https://github.com/TheUnixDemon/WebnovelToEpub). Also basicly everything that goes along with Linux, (network) administration and optimization. Furthermore I love backend development combined with everything that I had already mentioned.
